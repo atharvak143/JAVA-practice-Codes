@@ -1,4 +1,4 @@
-package Searching;
+package Searching.LinearSearch;
 
 public class SearchIn2DArrays {
     

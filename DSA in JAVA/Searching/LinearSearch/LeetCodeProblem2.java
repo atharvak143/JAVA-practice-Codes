@@ -1,4 +1,4 @@
-package Searching;
+package Searching.LinearSearch;
 // MaxWealth
 public class LeetCodeProblem2 {
     
